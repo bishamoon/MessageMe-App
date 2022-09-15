@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236769764013",
+    "project_id": "messageme-dae43",
+    "storage_bucket": "messageme-dae43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236769764013:android:b26de362fd5bf6bcc71c24",
+        "android_client_info": {
+          "package_name": "com.noor.message_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236769764013-h3sk4o46b98d387pdciuriff7dlubvbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqqk1Cm-94F3q02RwKC3ruJ7FGiO56b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236769764013-h3sk4o46b98d387pdciuriff7dlubvbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
